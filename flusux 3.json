@@ -29,7 +29,7 @@
       { "name": "Tối Ưu", "sub": "Mạng êm", "icon": "📡" },
       { "name": "Sửa Lỗi", "sub": "Đường truyền", "icon": "🔧" },
       { "name": "HitBox", "sub": "Tăng đầu", "icon": "🚀" },
-      { "name": "Giảm Đồ", "sub": "Chip nhẹ", "icon": "📉" },
+      { "name": "Giảm Đồ Họa", "sub": "Chip nhẹ", "icon": "📉" },
       { "name": "AntiBan", "sub": "Bảo vệ", "icon": "🛡️" }
     ],
     "sliders": [
