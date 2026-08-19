@@ -1,0 +1,52 @@
+{
+  "menuName": "FLUEXUS DEV",
+  "footer": "© VITALY | Cycle Dev",
+  "trialKey": "FUEFNAOBVS",
+  "permanentKeys": [
+    "habwysggani",
+    "bwuwjsysn",
+    "hwbsusjsy"
+  ],
+  "home": {
+    "title": "Trang Chủ và Cập Nhật Thông Tin",
+    "updateVersion": "OB54",
+    "updates": [
+      { "tag": "Mới", "text": "Bản cập nhật chờ đợi" },
+      { "tag": "Tăng cường", "text": "Tăng cường ANTIBAN mỗi tuần" },
+      { "tag": "Trợ giúp", "text": "Hỗ trợ full thiết bị Android" }
+    ]
+  },
+  "tabs": {
+    "home": "TRANG CHỦ",
+    "func": "CHỨC NĂNG",
+    "bypass": "BYPASS"
+  },
+  "functions": {
+    "buttons": [
+      { "name": "AimLock", "sub": "Khóa Tâm", "icon": "🎯" },
+      { "name": "FixLag", "sub": "Giảm giật", "icon": "⚡" },
+      { "name": "Nhẹ Tâm", "sub": "Tâm nhẹ", "icon": "🪶" },
+      { "name": "Tối Ưu", "sub": "Mạng êm", "icon": "📡" },
+      { "name": "Sửa Lỗi", "sub": "Đường truyền", "icon": "🔧" },
+      { "name": "HitBox", "sub": "Tăng đầu", "icon": "🚀" },
+      { "name": "Giảm Đồ", "sub": "Chip nhẹ", "icon": "📉" },
+      { "name": "AntiBan", "sub": "Bảo vệ", "icon": "🛡️" }
+    ],
+    "sliders": [
+      { "name": "All Nhạy", "value": 50, "max": 100 },
+      { "name": "AimLock", "value": 80, "max": 200 },
+      { "name": "Sensitivity", "value": 70, "max": 200 }
+    ]
+  },
+  "bypass": {
+    "buttons": [
+      { "name": "ByPass Anticheat", "sub": "Vượt anti", "icon": "🔓" },
+      { "name": "Login 404", "sub": "Bypass login", "icon": "🔑" },
+      { "name": "Đổi IP", "sub": "IPv4 mới", "icon": "🌐" }
+    ]
+  },
+  "messages": {
+    "wrongKey": "Key sai, vui lòng nhập lại.",
+    "changeIp": "Đã đổi ipv4"
+  }
+}
