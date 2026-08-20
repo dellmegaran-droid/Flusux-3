@@ -11,7 +11,7 @@
     "title": "Trang Chủ và Cập Nhật Thông Tin",
     "updateVersion": "OB54",
     "updates": [
-      { "tag": "Mới", "text": "Bản cập nhật chờ đợi" },
+      { "tag": "Mới", "text": "Admin đang sửa lỗi, bạn vẫn có thể sử dụng menu bình thường" },
       { "tag": "Tăng cường", "text": "Tăng cường ANTIBAN mỗi tuần" },
       { "tag": "Trợ giúp", "text": "Hỗ trợ full thiết bị Android" }
     ]
