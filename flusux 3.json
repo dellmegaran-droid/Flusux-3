@@ -1,7 +1,7 @@
 {
   "menuName": "FLUEXUS DEV",
   "footer": "© VITALY | Cycle Dev",
-  "trialKey": "VTL-FNVDR-EDIEB",
+  "trialKey": "FREE-VIP-FLUESUX",
   "permanentKeys": [
     "CYCLE-DEV-ONDUTV",
     "GEHYV-JYSJIC",
@@ -11,7 +11,7 @@
     "title": "Trang Chủ và Cập Nhật Thông Tin",
     "updateVersion": "OB54",
     "updates": [
-      { "tag": "Mới", "text": "Admin đang sửa lỗi, bạn vẫn có thể sử dụng menu bình thường" },
+      { "tag": "Mới", "text": "Bản cập nhật Antiban đã được cập nhật" },
       { "tag": "Tăng cường", "text": "Tăng cường ANTIBAN mỗi tuần" },
       { "tag": "Trợ giúp", "text": "Hỗ trợ full thiết bị Android" }
     ]
